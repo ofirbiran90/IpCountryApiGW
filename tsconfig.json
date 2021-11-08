@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+      "target": "es2017",
+      "moduleResolution": "node",
+      "module": "commonjs",
+      "sourceMap": true,
+      "experimentalDecorators": true,
+      "noImplicitAny": true,
+      "declaration": true,
+      "strictPropertyInitialization": false,
+      "skipLibCheck": true,
+      "outDir": "./lib",
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+  },
+  "include": ["src/**/*", "src/**/*.json", "package.json", "config/default.json", "test/**/*"],
+  "exclude": ["node_modules"],
+}

@@ -1,0 +1,13 @@
+{
+    "globals": {
+        "port": 3002,
+        "ratePerHour": 10,
+        "ipstack": {
+            "api": "http://api.ipstack.com",
+            "accessKey": "5abfa4402357f1d069b80b37399aca93"
+        },
+        "ipapi": {
+            "api": "http://ipapi.co"
+        }
+    }
+}
