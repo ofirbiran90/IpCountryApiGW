@@ -1,6 +1,6 @@
 # IpCountryApiGW
 
 # Install and Run
-npm install
-tsc
-npm run start
+$ npm install
+$ tsc
+$ npm run start
